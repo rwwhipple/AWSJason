@@ -1,0 +1,19 @@
+Name	Type	Description	
+ASNTD0002	Computer		
+ASNT-F3WXM93	Computer		
+ASNTL-11P1N93	Computer		
+ASNTL-1Y5FG63	Computer		
+ASNTL-2PLDT93	Computer		
+ASNTL-BJGLGW2	Computer		
+ASNTL-CDH2G63	Computer		
+ASNTL-CMSYWS2	Computer		
+DESKTOP-20GF122	Computer		
+DESKTOP-TRB62QQ	Computer		
+DUFFY944KB63	Computer		
+DUFFYBJERIQQ	Computer		
+DUFFYDK79MJ2	Computer		
+DUFFYMCKD1	Computer		
+DUFFYMCKD2	Computer		
+DUFFYMCKL015	Computer		
+DUFFYML-48RB8S2	Computer		
+MA-STATION2	Computer		

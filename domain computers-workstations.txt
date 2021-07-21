@@ -1,0 +1,9 @@
+Name	Type	Description	
+ASNTMCKL0005	Computer		
+ASNTSUR17-0729	Computer		
+DUFFYMCKL0001	Computer		
+DUFFYMCKL0002	Computer		
+DUFFYMCKL0003	Computer		
+DUFFYMCKL0005	Computer		
+DUFFYMCKL0009	Computer		
+DUFFYMCKL0010	Computer		
